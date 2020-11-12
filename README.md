@@ -10,7 +10,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ### Level 1: Basic Visualization
 
-![2-BasicMap](Leaflet-Step-1/Images/2-BASICMAP.png)
+![2-BasicMap](Leaflet-Step-1/Images/2-MYMAP.png)
 
 Your first task is to visualize an earthquake data set.
 
